@@ -32,6 +32,17 @@ This project is a responsive grocery store website built with Node.js, REST APIs
 ![Products Page](path/to/products-screenshot.png)
 ![Product Details](path/to/details-screenshot.png)
 
---
+---
+
+Author
+
+## Author
 
 
+
+**Thounny Keo**  
+Frontend Development Student | Year Up United
+
+---
+
+ 
